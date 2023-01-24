@@ -1,1 +1,1 @@
-Building Basic Reciepe Website 
+This github is for Building a basic website on Reciepe selection.
