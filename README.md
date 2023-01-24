@@ -1,1 +1,0 @@
-Practicing all of the html knowledge acquired and making a Reciepe website.
