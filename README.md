@@ -8,3 +8,5 @@ absolute links vs relative links
 
 Moving back to root directory when html file is in other directory 
 ex - ../img/misosoup.jpg
+
+Git commit with body/summary
