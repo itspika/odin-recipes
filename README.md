@@ -1,3 +1,5 @@
+Live view: https://itspika.github.io/odin-recipes/
+
 Basic Recipe website based on html. 
 
 Things learned - basic elements, attributes, working with git, HTML boilerplate
